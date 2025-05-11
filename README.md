@@ -69,7 +69,7 @@ Open in browser:
 ## 📓 Model Training
 
 To understand or modify how the model was built and trained, check the Colab notebook:  
-▶️ [Open in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/titanic-survival-predictor/blob/main/titanic_model_training.ipynb)
+▶️ [Open in Google Colab](https://colab.research.google.com/drive/1xpeY8_nUaa3SiA4CU2K7QBVZo3O8cUrn#scrollTo=QLiru92VO53r)
 
 ---
 
