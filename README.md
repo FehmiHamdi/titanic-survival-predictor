@@ -36,7 +36,7 @@ titanic-survival-predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/titanic-survival-predictor.git
+git clone https://github.com/FehmiHamdi/titanic-survival-predictor.git
 cd titanic-survival-predictor
 ```
 
