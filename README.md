@@ -2,7 +2,7 @@
 
 This project predicts whether a passenger would survive the Titanic disaster using a machine learning model trained in a Google Colab notebook, and deployed via a **FastAPI** backend. A simple web frontend is provided for user interaction.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13IO3-gfyS9mSPuzAo6-wsYBUOVpxb_va)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xpeY8_nUaa3SiA4CU2K7QBVZo3O8cUrn#scrollTo=QLiru92VO53r)
 
 ---
 
